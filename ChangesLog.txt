@@ -1,0 +1,66 @@
+17 April 2017
+   released version 2.4.221 of Project One
+
+     Change log:
+        -Typo: Instruction Changes
+
+12 April 2017
+   released version 2.4.215 of Project One
+
+     Change log:
+        -Added: BETTER YOU WON!
+
+12 April 2017
+   released version 2.4.211 of Project One
+
+     Change log:
+        -Updated: Cosmectic changes in menu 
+        -Added: Credits
+        -New: Welcome Sreen kindof
+
+11 April 2017
+   released version 2.2.124 of Project Confuse
+
+     Change log:
+        -Added: New Gameplay Visuals for better game play
+        -Fixed: Some bugs
+
+11 April 2017
+   released version 2.1.74 of Project Confuse
+
+     Change log:
+        -Applied: Press space to choose rather then return key
+
+05 April 2017
+   released version 2.0.37 of Project Confuse
+
+     Change log:
+        -Fixed: Instruction Menu Bug Fixed 
+
+04 April 2017
+   released version 2.0.21 of Project Confuse
+
+     Change log:
+        -Applied: Some specific code changes
+        -Fixed: A never ending loop
+        -Added: Functional exit button..
+
+03 April 2017
+   released version 2.0.4 of Project Confuse
+
+     Change log:
+        -Added: instructions (but no way to go back now :P)
+
+03 April 2017
+   released version 2.0.3 of Project Confuse
+
+     Change log:
+        -Fixed: Black Screen 
+        -Removed: Removed Hi Splash Screen
+
+03 April 2017
+   released version 2.0.2 of Project Confuse
+
+     Change log:
+        -Fixed: 
+

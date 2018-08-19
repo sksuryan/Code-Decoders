@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1491993430 source:c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\src\credits.cpp
+	"credits.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1491992781 c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\include\credits.h
+
+1492422741 source:c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\src\gameplay.cpp
+	"gameplay.h"
+	<iostream>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<rnumgen.h>
+	<stdio.h>
+	<menus.h>
+
+1491929226 c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\include\gameplay.h
+
+1491230340 c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\include\rnumgen.h
+
+1491304789 c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\include\menus.h
+
+1492422471 source:c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\src\instruct.cpp
+	"instruct.h"
+	<menus.h>
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1491387073 c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\include\instruct.h
+
+1491999131 source:c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\src\menus.cpp
+	"menus.h"
+	<iostream>
+	<gameplay.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<instruct.h>
+	<conio.h>
+	<credits.h>
+
+1491929508 source:c:\users\rghs\onedrive\programming\c++ programs (project)\c++ builds\mastermind\project confuse\src\rnumgen.cpp
+	"rnumgen.h"
+	<iostream>
+	<windows.h>
+	<time.h>
+
